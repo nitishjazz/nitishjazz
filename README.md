@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on local music bands.
 - 📫 you can reach me on my website 
 - 😄 Pronouns: him
-- ⚡ Fun fact: i drum in my church 
+- ⚡ Fun fact: i play drum in my church 
 
 <!---
 nitishjazz/nitishjazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
